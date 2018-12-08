@@ -1,0 +1,13 @@
+{
+    "name": "phpenginesoft/phpengine",
+    "description": "Blazing Fast and Unbelievably Simple PHP Framework",
+    "type": "project",
+    "license": "GNU",
+    "authors": [
+        {
+            "name": "phpenginesoft",
+            "email": "php.engine.soft@gmail.com"
+        }
+    ],
+    "require": {}
+}
